@@ -24,6 +24,9 @@
           <name>maven-snapshots</name>
           <url>http://3.21.55.61:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
+<properties>
+  <sonar.projectKey>Spring3Hibernate</sonar.projectKey>
+</properties>
 	
  </distributionManagement>
 	<reporting>
